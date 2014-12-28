@@ -1,4 +1,2 @@
-jsonschema-OpenGraph
-====================
-
-OpenGraph formats in JSON Schema v4
+build-jsonschema-OpenGraph
+==========================
